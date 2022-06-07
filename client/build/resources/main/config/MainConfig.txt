@@ -1,0 +1,7 @@
+#save
+#Sat Jun 19 21:26:31 IRDT 2021
+GraphicCellWidth=50
+port=9000
+GraphicBoardWith=600
+GraphicalCellHeight=50
+GraphicBoardHeight=600
